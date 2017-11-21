@@ -7,3 +7,8 @@
 
 core.c , libusb_init , -> usbi_io_init result LIBUSB_ERROR_OTHER;
 
+
+
+# poll.h
+
+https://www.joinc.co.kr/w/Site/Network_Programing/Documents/Poll
